@@ -14,35 +14,35 @@
 
 .oppp3 {
   animation: fadeInReverse 1s linear forwards;
-  animation-delay: 1s;
+  animation-delay: 1.5s;
 }
 
 .oppp4 {
   animation: fadeInReverse 1s linear forwards;
-  animation-delay: 2s;
+  animation-delay: 3s;
 }
 
 .oppp5 {
   animation: fadeInReverse 1s linear forwards;
-  animation-delay: 3s;
+  animation-delay: 4.5s;
 }
 
 .timee2 {
   animation: fadeInReverse 1s linear forwards;
-  animation-delay: 4s;
+  animation-delay: 5.5s;
 }
 
 .ownn2 {
   animation: fadeIn 1s linear forwards;
-  animation-delay: 5s;
+  animation-delay: 6.5s;
 }
 
 .oppp6 {
   animation: fadeInReverse 1s linear forwards;
-  animation-delay: 6s;
+  animation-delay: 7.5s;
 }
 
 .oppp7 {
   animation: fadeInReverse 1s linear forwards;
-  animation-delay: 7s;
+  animation-delay: 8.5s;
 }

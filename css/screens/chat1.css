@@ -54,6 +54,7 @@
 
 .message-row,
 .time2,
+.time3,
 .timee2 {
   opacity: 0;
 }
@@ -84,12 +85,32 @@
 
 .own3 {
   animation: fadeIn 1s linear forwards;
-  animation-delay: 4s;
+  animation-delay: 4.5s;
 }
 
 .opp3 {
   animation: fadeInReverse 1s linear forwards;
-  animation-delay: 5s;
+  animation-delay: 5.5s;
+}
+
+.time3 {
+  animation: boom 1s linear forwards;
+  animation-delay: 6.5s;
+}
+
+.opp4 {
+  animation: fadeInReverse 1s linear forwards;
+  animation-delay: 8s;
+}
+
+.own4 {
+  animation: fadeIn 1s linear forwards;
+  animation-delay: 9s;
+}
+
+.own5 {
+  animation: fadeIn 1s linear forwards;
+  animation-delay: 10.5s;
 }
 
 .main-chat {
